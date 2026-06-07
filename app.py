@@ -4,7 +4,7 @@ from datetime import timedelta
 import pandas as pd
 st.set_page_config(
     page_title="Women's Health Assistant",
-    page_icon="logo.png", 
+    page_icon="https://github.com/shravanipimple07-oss/Womens-Health-Assistant/main/logo.png", 
     layout="wide"
 )
 # ==========================================
