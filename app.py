@@ -2,7 +2,11 @@ import streamlit as st
 import datetime
 from datetime import timedelta
 import pandas as pd
-
+st.set_page_config(
+    page_title="Women's Health Assistant",
+    page_icon="logo.png", 
+    layout="wide"
+)
 # ==========================================
 # Phase 14: BEAUTIFUL CUTE & AESTHETIC PASTELL UI
 # ==========================================
